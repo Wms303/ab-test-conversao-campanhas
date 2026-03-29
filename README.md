@@ -79,11 +79,13 @@ Taxa de Conversão = conversions / impressions
 
 ## 📈 Resultados
 
-| Métrica           | Controle | Teste || Lift | 
-| ----------------- | -------- | ----- || -----|
-| Taxa de Conversão | 4,86%    | 8,09% || **+66,5%**|
+| Métrica           | Controle | Teste |
+| ----------------- | -------- | ----- |
+| Taxa de Conversão | 4,86%    | 8,09% |
 
+### 🚀 Lift:
 
+**+66,5%**
 
 ---
 
@@ -105,7 +107,6 @@ Diante dos resultados, recomenda-se a **implementação em larga escala**.
 ---
 
 ## 📊 Dashboard
-
 
 ![Dashboard](images/ab_test_dataset.png)
 
@@ -136,6 +137,7 @@ O dashboard foi desenvolvido com foco em clareza e tomada de decisão, contendo:
 * Modelos preditivos de conversão
 
 ---
+
 ## 👨‍💻 Autor **Weslley Marques** 
 LinkedIn: www.linkedin.com/in/weslley-marques-86a28937b
 
