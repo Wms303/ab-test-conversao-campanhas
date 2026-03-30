@@ -56,7 +56,7 @@ Essa métrica é essencial para avaliar a eficiência de campanhas e impacto dir
 ### 🔹 1. Preparação dos Dados
 - Consolidação das bases de controle e teste  
 - Padronização das variáveis  
-- Criação da base analítica única (`ab_data`)  
+- Criação da base analítica única (`ab_tes_data`)  
 
 ### 🔹 2. Estrutura do Experimento
 
